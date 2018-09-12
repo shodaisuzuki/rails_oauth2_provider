@@ -1,24 +1,13 @@
-# README
+# railsでoauth2.0を実装してみる
+authプロバイダ側アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+クライアント側アプリは以下アプリ
+https://github.com/soartec-lab/rails_oauth2_client
 
-Things you may want to cover:
+# 参考
+https://qiita.com/kyonsuke19101/items/407f3cdfec38d1108e9d
+https://qiita.com/arakaji/items/39818b207f9c1c3c4058
 
-* Ruby version
+## gem 'doorkeeper'
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/doorkeeper-gem/doorkeeper
